@@ -1,0 +1,30 @@
+.heading {
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+
+.linky {
+    color: red; 
+    background-color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px !important;
+}
+
+h1 {
+    background-color: aquamarine;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+ul {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    }
+
+ol {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    background-color: beige;
+}
